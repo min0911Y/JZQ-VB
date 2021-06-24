@@ -1,0 +1,12 @@
+D:\井字棋1.0\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\井字棋1.0\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\井字棋1.0\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\井字棋1.0\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\井字棋1.0\WindowsApp1\WindowsApp1\bin\Debug\井字棋1.1.exe.config
+D:\井字棋1.0\WindowsApp1\WindowsApp1\bin\Debug\井字棋1.1.exe
+D:\井字棋1.0\WindowsApp1\WindowsApp1\bin\Debug\井字棋1.1.pdb
+D:\井字棋1.0\WindowsApp1\WindowsApp1\bin\Debug\井字棋1.1.xml
+D:\井字棋1.0\WindowsApp1\WindowsApp1\obj\Debug\井字棋1.1.exe
+D:\井字棋1.0\WindowsApp1\WindowsApp1\obj\Debug\井字棋1.1.xml
+D:\井字棋1.0\WindowsApp1\WindowsApp1\obj\Debug\井字棋1.1.pdb
+D:\井字棋1.0\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
