@@ -45,6 +45,8 @@ Module Module1
     Public ai%
     Public Win%
     Public Sub _LIVE_()
+        '和棋检测
+        '通过c1 - c9 的检测 还有Win变量 来检测是否和棋
         If Form1.Button1.Enabled = False And Form1.Button19.Enabled = False Then
             C1 = 1
 
